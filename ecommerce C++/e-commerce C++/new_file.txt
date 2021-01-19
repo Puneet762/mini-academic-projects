@@ -1,0 +1,43 @@
+
+SmartPhone: Mi_A3
+RAM: 4
+Storage: 16
+Weight: 150
+Camera: 4mp,12mp
+Battery: 4000
+Price: 10000
+TV: LG_Smart_Curved_UHDTV
+Display(in inches): 50
+Price: 120000
+Washing Machine: Whirlpool_semiautomatic_8kg_hardwaterwash
+Price: 60000
+TV: aefdji
+Display(in inches): 34
+Price: 34000
+SmartPhone: dfhcjg
+RAM: 4
+Storage: 64
+Weight: 159
+Camera: 8mp,12mp
+Battery: 4500
+Price: 10000
+Laptop: HP_
+Storage: 256
+Operating system: Intel_i3
+Graphics: Ax34graphics
+Display(in inches): 30
+Price: 30000
+Washing Machine: LG_SemiAutomatic_8kG_WHITE
+Price: 50000
+TV: Mi_SmartTV
+Display(in inches): 60
+Price: 68000
+Laptop: tdfsaz
+Storage: 256
+Operating system: X2vbn
+Graphics: dssgraphics
+Display(in inches): 19
+Price: 40000
+TV: MI_Smart_TV
+Display(in inches): 45
+Price: 70000
