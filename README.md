@@ -1,1 +1,1 @@
-# mini-academic-projects
+# other mini-academic-projects
